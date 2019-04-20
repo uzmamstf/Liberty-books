@@ -1,0 +1,11 @@
+select{
+    align-items: center;
+}
+input{
+    height: 60px;
+    width: 55%;
+}
+select{
+    height: 65px;
+
+}
